@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "30e5f448",
+   "id": "9631dd89",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-06-24T07:42:05.643446Z",
-     "iopub.status.busy": "2025-06-24T07:42:05.643051Z",
-     "iopub.status.idle": "2025-06-24T07:42:07.512904Z",
-     "shell.execute_reply": "2025-06-24T07:42:07.511929Z"
+     "iopub.execute_input": "2025-06-24T07:56:19.346516Z",
+     "iopub.status.busy": "2025-06-24T07:56:19.345690Z",
+     "iopub.status.idle": "2025-06-24T07:56:20.915134Z",
+     "shell.execute_reply": "2025-06-24T07:56:20.914122Z"
     },
     "papermill": {
-     "duration": 1.874441,
-     "end_time": "2025-06-24T07:42:07.514505",
+     "duration": 1.573816,
+     "end_time": "2025-06-24T07:56:20.916714",
      "exception": false,
-     "start_time": "2025-06-24T07:42:05.640064",
+     "start_time": "2025-06-24T07:56:19.342898",
      "status": "completed"
     },
     "tags": []
@@ -120,6 +120,7 @@
      "sourceType": "datasetVersion"
     }
    ],
+   "dockerImageVersionId": 31040,
    "isGpuEnabled": false,
    "isInternetEnabled": true,
    "language": "python",
@@ -144,14 +145,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 7.072348,
-   "end_time": "2025-06-24T07:42:08.036514",
+   "duration": 6.118048,
+   "end_time": "2025-06-24T07:56:21.336451",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-06-24T07:42:00.964166",
+   "start_time": "2025-06-24T07:56:15.218403",
    "version": "2.6.0"
   }
  },
